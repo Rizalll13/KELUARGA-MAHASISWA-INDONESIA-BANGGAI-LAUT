@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>KMI BALUT</title>
+
+  <!-- slider stylesheet -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap" rel="stylesheet">
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+</head>
+
+<body>
+
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="index.html">
+            <img src="images/kmibalut.jpg" alt="">
+            <span>
+              KMI BALUT
+            </span>
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="s-1"> </span>
+            <span class="s-2"> </span>
+            <span class="s-3"> </span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+              <ul class="navbar-nav  ">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about.html"> About</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="service.html"> Service </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="blog.html"> Blog </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html">Contact </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+    <!-- slider section -->
+    <section class=" slider_section ">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 ">
+            <div class="detail_box">
+              <h1>
+                KELUARGA <br>
+                MAHASISWA <br>
+                INDONESIA <br>
+                BANGGAI LAUT
+              </h1>
+              <p>
+                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem
+              </p>
+              <a href="" class="">
+                Contact Us
+            </div>
+          </div>
+          <div class="col-lg-5 col-md-6 offset-lg-1">
+            <div class="img_content">
+              <div class="img_container">
+                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <div class="img-box">
+                        <img src="images/logo kmibalut.jpg" alt="">
+                      </div>
+                    </div>
+                    <div class="carousel-item">
+                      <div class="img-box">
+                        <img src="images/logo kmibalut.jpg" alt="">
+                      </div>
+                    </div>
+                    <div class="carousel-item">
+                      <div class="img-box">
+                        <img src="images/logo kmibalut.jpg" alt="">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- end slider section -->
+  </div>
+
+
+  <!-- service section -->
+  <section class="service_section layout_padding">
+    <div class="container">
+      <div class="heading_container">
+        <h2>
+          BIDANG
+        </h2>
+        <img src="images/logo.png" alt="">
+      </div>
+
+      <div class="service_container">
+        <div class="box">
+          <div class="img-box">
+            <img src="images/th.jpeg" class="img1" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Bidang Kaderisasi
+            </h5>
+            <p>
+              Kaderisasi adalah suatu proses pembentukan dan pengembangan sumber daya manusia yang dimiliki oleh suatu organisasi. Proses ini melibatkan berbagai tahapan, mulai dari seleksi, pelatihan, pengarahan, hingga evaluasi. Tujuan utama dari kaderisasi adalah untuk menciptakan kader-kader yang memiliki pemahaman yang mendalam tentang ideologi, nilai-nilai, dan tujuan organisasi. Dengan demikian, kader-kader tersebut dapat menjadi ujung tombak dalam menjalankan berbagai program dan kegiatan organisasi.
+            </p>
+          </div>
+        </div>
+        <div class="box active">
+          <div class="img-box">
+            <img src="images/kominfo.jpeg" class="img1" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Bidang KOMINFO
+            </h5>
+            <p>
+              Kominfo biasanya merujuk pada Divisi Komunikasi dan Informasi. Bidang ini memiliki peran penting dalam mengelola dan menyebarkan informasi kepada anggota organisasi dan publik.
+            </p>
+          </div>
+        </div>
+        <div class="box">
+          <div class="img-box">
+            <img src="images/religions-symbol.jpeg" class="img1" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Bidang Keagamaan
+            </h5>
+            <p>
+              Bidang keagamaan dalam organisasi bertanggung jawab untuk mengelola kegiatan keagamaan, menyediakan bimbingan spiritual, dan mendukung anggota dalam praktik agama. Ini melibatkan penyelenggaraan ibadah, pelatihan, dan penanganan pertanyaan keagamaan. 
+            </p>
+          </div>
+        </div>
+        <div class="box ">
+          <div class="img-box">
+            <img src="images/Advokasi.jpeg" class="img1" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Bidang Advokasi
+            </h5>
+            <p>
+              Bidang advokasi dalam organisasi bertanggung jawab untuk memperjuangkan hak-hak dan kepentingan. Ini melibatkan pengaruh kebijakan publik, kampanye, dan pengumpulan bukti untuk mencapai perubahan sosial yang diinginkan. Advokasi tidak hanya terbatas pada hukum, tetapi juga dapat diterapkan dalam berbagai bidang seperti kesehatan, pendidikan, dan lingkungan. 
+            </p>
+          </div>
+        </div>
+        <div class="box">
+          <div class="img-box">
+            <img src="images/olahrga.png" class="img1" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Bidang Seni Budaya & Olahraga
+            </h5>
+            <p>
+              Bidang seni budaya dan olahraga dalam organisasi memiliki peran penting. Pengelolaan seni dan budaya melibatkan pengembangan dan promosi kegiatan seni, serta memelihara identitas budaya organisasi. Pemasaran seni dan budaya menyampaikan pesan melalui bahasa universal seni. Di sisi olahraga, aktivitas ini meningkatkan kesehatan, semangat tim, dan kerjasama. Secara keseluruhan, seni budaya dan olahraga berkontribusi pada atmosfer yang dinamis dan inovatif dalam organisasi . 
+            </p>
+          </div>
+          <div class="box">
+            <div class="img-box">
+              <img src="images/investasi.png" class="img1" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+                Bidang Usaha Organisasi
+              </h5>
+              <p>
+                Bidang usaha dalam organisasi meliputi peran eksekutif yang membuat keputusan strategis, manajemen yang mengarahkan operasi sehari-hari, serta operasi dan produksi yang mendukung fungsi bisnis inti. Adaptasi dan inovasi adalah kunci untuk pertumbuhan, dengan organisasi yang sukses secara rutin menyesuaikan dengan perubahan eksternal. Setiap posisi bisnis mendukung struktur organisasi dan kontribusi terhadap kesuksesan keseluruhan. 
+              </p>
+            </div>
+        </div>
+      </div>
+      <div class="btn-box">
+        <a href="">
+          Read More
+        </a>
+      </div>
+    </div>
+  </section>
+  <!-- end service section -->
+
+  <!-- about section -->
+  <section class="about_section layout_padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container">
+              <h2>
+                About Us
+              </h2>
+              <img src="images/plug.png" alt="">
+            </div>
+            <p>
+              “Kami adalah organisasi yang berakar di tanah rantau, tumbuh dari semangat perantauan. Dengan komitmen untuk berkontribusi pada masyarakat, kami menjembatani perbedaan dan memperkaya pengalaman kuliah. Kami percaya bahwa setiap perjalanan membawa pelajaran dan inspirasi, dan kami berusaha menggali potensi melalui pendidikan dan kolaborasi. Bersama, kami menciptakan ruang untuk pertumbuhan, belajar, dan pengembangan diri.”
+            </p>
+            <a href="">
+              Read More
+            </a>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="img_container">
+            <div class="img-box b1">
+              <img src="images/bltt.jpg" alt="" />
+            </div>
+            <div class="img-box b2">
+              <img src="images/blt.jpg" alt="" />
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- end about section -->
+
+
+
+
+  <!-- blog section -->
+
+  <section class="blog_section layout_padding">
+    <div class="container">
+      <div class="heading_container">
+        <h2>
+          Blog
+        </h2>
+        <img src="images/plug.png" alt="">
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/balut.jpg" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+                Blog Title Goes Here
+              </h5>
+              <p>
+                There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="box">
+            <div class="img-box">
+              <img src="images/blog2.jpg" alt="">
+            </div>
+            <div class="detail-box">
+              <h5>
+                Blog Title Goes Here
+              </h5>
+              <p>
+                There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end blog section -->
+
+
+
+  <!-- contact section -->
+
+  <section class="contact_section layout_padding">
+    <div class="container ">
+      <div class="heading_container">
+        <h2>
+          Contact Us
+        </h2>
+        <img src="images/plug.png" alt="">
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <form action="">
+            <div>
+              <input type="text" placeholder="Name" />
+            </div>
+            <div>
+              <input type="email" placeholder="Email" />
+            </div>
+            <div>
+              <input type="text" placeholder="Phone Number" />
+            </div>
+            <div>
+              <input type="text" class="message-box" placeholder="Message" />
+            </div>
+            <div class="d-flex ">
+              <button>
+                SEND
+              </button>
+            </div>
+          </form>
+        </div>
+        <div class="col-md-6">
+          <div class="map_container">
+            <div class="map-responsive">
+              <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA0s1a7phLN0iaD6-UE7m4qP-z21pH0eSc&q=Eiffel+Tower+Paris+France" width="600" height="300" frameborder="0" style="border:0; width: 100%; height:100%" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end contact section -->
+
+
+  <!-- info section -->
+
+  <section class="info_section layout_padding">
+    <div class="container">
+      <div class="info_contact">
+        <div class="row">
+          <div class="col-md-4">
+            <a href="">
+              <img src="images/location-white.png" alt="">
+              <span>
+                Provinsi Gorontalo
+              </span>
+            </a>
+          </div>
+          <div class="col-md-4">
+            <a href="">
+              <img src="images/telephone-white.png" alt="">
+              <span>
+                Call : +012334567890
+              </span>
+            </a>
+          </div>
+          <div class="col-md-4">
+            <a href="">
+              <img src="images/envelope-white.png" alt="">
+                <span> 
+                  kmibalut@gmail.com
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-8 col-lg-9">
+          <div class="info_form">
+            <form action="">
+              <input type="text" placeholder="Enter your email">
+              <button>
+                subscribe
+              </button>
+            </form>
+          </div>
+        </div>
+        <div class="col-md-4 col-lg-3">
+          <div class="info_social">
+            <div>
+              <a href="">
+                <img src="images/fb.png" alt="">
+              </a>
+            </div>
+            <div>
+              <a href="">
+                <img src="images/twitter.png" alt="">
+              </a>
+            </div>
+            <div>
+              <a href="">
+                <img src="images/linkedin.png" alt="">
+              </a>
+            </div>
+            <div>
+              <a href="">
+                <img src="images/instagram.png" alt="">
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- end info section -->
+
+  <!-- footer section -->
+  <footer class="container-fluid footer_section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-7 col-md-9 mx-auto">
+          <p>
+            &copy; 2024 KMI BALUT
+            <a href="https://html.design/">PRIVINSI GORONTALO</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- footer section -->
+
+
+  <script src="js/jquery-3.4.1.min.js"></script>
+  <script src="js/bootstrap.js"></script>
+
+</body>
+
+</html>
